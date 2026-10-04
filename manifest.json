@@ -1,0 +1,17 @@
+{
+  "id": "hoenn_latias_latios_roamers",
+  "name": "Hoenn Latias + Latios Roamers",
+  "version": "0.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "overhaul",
+  "category": "GAMEPLAY",
+  "games": ["firered", "leafgreen"],
+  "permissions": ["engine_internals"],
+  "priority": 121,
+  "dependencies": ["untamed_advanced", "hoenn_journey_firered"],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Adds Latias and Latios as simultaneous roaming legendary Pokemon throughout Hoenn.",
+  "github": "Panduino/Latios-and-Latias-Roamers"
+}
